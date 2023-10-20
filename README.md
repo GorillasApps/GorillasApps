@@ -12,7 +12,7 @@
 
 - 👋 Hi,We at GorillaApps will make sure that your project is carried out in the best way in the fastest time.
 - 👀 So if you are looking for someone to develop your next product for you, it is us without a doubt!
-- 📫 How to reach me ...
+- 📫 [How to reach me ...](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorillasApps)](https://github.com/anuraghazra/github-readme-stats)
