@@ -12,8 +12,7 @@
 - 👀 So if you are looking for someone to develop your next product for you, it is us without a doubt!
 - 📫 [My Linkedin](https://www.linkedin.com/in/ohad-sahar-b2a7a9129/)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorillasApps)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GorillasApps&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GorillasApps/GorillasApps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
