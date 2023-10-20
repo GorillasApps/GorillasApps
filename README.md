@@ -1,7 +1,4 @@
-
-![Blue Geometric Technology LinkedIn Banner](https://github.com/GorillasApps/GorillasApps/assets/138135361/a6b8ec90-111e-4b06-9781-ac78a226b340)
 ![Blue Geometric Technology LinkedIn Banner (1)](https://github.com/GorillasApps/GorillasApps/assets/138135361/b3fb35e5-a477-49f8-a202-37c10b783475)
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
